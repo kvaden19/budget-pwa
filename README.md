@@ -12,7 +12,7 @@ When brought back online:
   * Offline entries should be added to tracker.
 
 TODOs:
-- Review existing code
-- Manifest
 - Service worker
 - Caching
+- Troubleshooting
+- Deploy
