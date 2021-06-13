@@ -12,7 +12,5 @@ When brought back online:
   * Offline entries should be added to tracker.
 
 TODOs:
-- Service worker
-- Caching
-- Troubleshooting
+- Review db.js
 - Deploy
