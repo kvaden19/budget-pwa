@@ -1,5 +1,6 @@
+// Cache all files in public directory (client-side files)
 const FILES_TO_CACHE = [
-    '/',
+    '/', // this is the same as index.html
     '/styles.css',
     '/index.js',
     '/manifest.webmanifest',
